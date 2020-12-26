@@ -57,7 +57,7 @@ IEEE transactions on neural networks and learning systems 29, no. 6 (2018): 2239
 20. Jiang, Ming-xin, Chao Deng, Zhi-geng Pan, Lan-fang Wang, and Xing Sun. "Multiobject Tracking in Videos Based on LSTM and Deep Reinforcement Learning." 
 Complexity 2018 (2018).
 
-21. 
+21. * ke Song· Wei Zhang · Ran Song · Yibin Li, Online Decision Based Visual Tracking via Reinforcement Learning, [[Paper](https://proceedings.neurips.cc//paper/2020/file/885b2c7a6deb4fea10f319c4ce993e02-Paper.pdf)] [[Project](https://vsislab.github.io/DTNet/)] [[Code]()]
 
 
 
