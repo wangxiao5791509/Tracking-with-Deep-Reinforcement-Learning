@@ -57,7 +57,15 @@ IEEE transactions on neural networks and learning systems 29, no. 6 (2018): 2239
 20. Jiang, Ming-xin, Chao Deng, Zhi-geng Pan, Lan-fang Wang, and Xing Sun. "Multiobject Tracking in Videos Based on LSTM and Deep Reinforcement Learning." 
 Complexity 2018 (2018).
 
-21. * ke Song· Wei Zhang · Ran Song · Yibin Li, Online Decision Based Visual Tracking via Reinforcement Learning, [[Paper](https://proceedings.neurips.cc//paper/2020/file/885b2c7a6deb4fea10f319c4ce993e02-Paper.pdf)] [[Project](https://vsislab.github.io/DTNet/)] [[Code]()]
+21. * ke Song· Wei Zhang · Ran Song · Yibin Li, Online Decision Based Visual Tracking via Reinforcement Learning, [[Paper](https://proceedings.neurips.cc//paper/2020/file/885b2c7a6deb4fea10f319c4ce993e02-Paper.pdf)] [[Project](https://vsislab.github.io/DTNet/)]
+
+22. * **Towards Sequence-Level Training for Visual Tracking**, Minji Kim, Seungkwan Lee, Jungseul Ok, Bohyung Han, Minsu Cho 
+[[Paper](https://arxiv.org/pdf/2208.05810.pdf)] 
+[[Code](https://github.com/byminji/SLTtrack)]
+
+
+23. * "**Beyond Greedy Search: Tracking by Multi-Agent Reinforcement Learning-based Beam Search**." Wang, Xiao, et al.  arXiv preprint arXiv:2205.09676 (2022). 
+[[Paper](https://arxiv.org/abs/2205.09676)] 
 
 
 
